@@ -1,5 +1,5 @@
 {
-    "name": "waarneembemiddeling/php-pdfimages",
+    "name": "kminkov/php-pdfimages",
     "require": {
         "alchemy/binary-driver": "~2.0"
     },
